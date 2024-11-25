@@ -2,8 +2,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiraKostina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=transparent" alt="my Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiraKostina&show_icons=true&locale=en&layout=compact&theme=transparent" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiraKostina&theme=transparent" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KiraKostina&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiraKostina&theme=tokyonight" alt="mystreak"/>
 <!--
 **KiraKostina/KiraKostina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
